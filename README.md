@@ -1,4 +1,4 @@
-# Data Scientist Workshop Final Project
+# Data Scientist Workshop Final Project - Subject #10
 
 ## Phase A
-    * see: https://github.com/LiorNeg/DSWFinalProject/blob/master/CollectingData.ipynb
+    *see: [a link]https://github.com/LiorNeg/DSWFinalProject/blob/master/CollectingData.ipynb
